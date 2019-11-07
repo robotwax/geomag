@@ -1,0 +1,57 @@
+.sidebar {
+  background-color: #f3f6fa;
+}
+.title {
+  color: white;
+  padding: 0px 35px;
+}
+.subtitle {
+  color: white;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  padding: 0px 35px;
+}
+
+}
+body {
+  margin: 0;
+}
+h5 {
+  font-weight: 500 !important;
+}
+.crs-logo {
+  height: 60px;
+  width: auto;
+  padding: 25px;
+  float:left
+}
+.info-button {
+  padding: 20px 35px;
+}
+.learn-more-button {
+  background-color: #2a6fd3;
+  color: white;
+  font-size: 10px;
+  letter-spacing: 1px;
+  font-weight: 300;
+  padding: 0px 15px;
+}
+.timeline-slider {
+  padding: 10px 38px;
+}
+.rc-slider-handle {
+  border: solid 2px #2a6fd3;
+}
+.rc-slider-track {
+  background-color: #2a6fd3;
+}
+.rc-slider-dot-active {
+  border-color: #2a6fd3;
+}
+.flex-display {
+  display: flex;
+}
+.page-buttons {
+  padding: 15px 35px;
+}
+
