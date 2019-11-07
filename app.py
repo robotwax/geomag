@@ -39,7 +39,7 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.Img(
-                                    src=app.get_asset_url("crs-logo.jpg"),
+                                    src="/assets/crs-logo.jpg",
                                 style={'height': 60, 'width': 'auto', 'padding': 25,  'float':'left'}),
                                 html.H2("Geomagnetic Anomaly", style={'padding': 25,  'float':'left'}),
                                 html.Img(src='/assets/headertop.png', style={'width': '100%', 'z-index': -1, 'margin': '-15px, -5px, -15px, -5px'}),
