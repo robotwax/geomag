@@ -149,7 +149,7 @@ def update_output(mydropdown2, radio, value):
                     }
                   ],
                   font={'color':'white'},
-                  paper_bgcolor= '#0d0887',
+                  paper_bgcolor= '#090661',
                   plot_bgcolor= "white",
                   hovermode='closest',
                   showlegend=False)
@@ -180,7 +180,7 @@ def update_output(mydropdown2, radio, value):
                           },
                       ],
                       font={'color':'white'},
-                      paper_bgcolor= '#0d0887',
+                      paper_bgcolor= '#090661',
                       plot_bgcolor= "white",
                       hovermode='closest',
                       showlegend=False,
@@ -217,7 +217,7 @@ def update_output(mydropdown2, radio, value):
                     }
                   ],
                   font={'color':'white'},
-                  paper_bgcolor= '#0d0887',
+                  paper_bgcolor= '#090661',
                   plot_bgcolor= "white",
                   hovermode='closest',
                   showlegend=False),
@@ -249,7 +249,7 @@ def update_output(mydropdown2, radio, value):
                           },
                       ],
                       font={'color':'white'},
-                      paper_bgcolor= '#0d0887',
+                      paper_bgcolor= '#090661',
                       plot_bgcolor= "white",
                       hovermode='closest',
                       showlegend=False,
